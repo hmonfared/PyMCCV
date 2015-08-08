@@ -1,5 +1,5 @@
 # PyMCCV
-Python multi class cross validator
+Python multi class cross validator!<p>
 This is a simple Python utility for evaluating your classifier using K-Fold cross validation.
 When your dataset has more than two classes, measuring your classifier performance based on some scoring methods will be difficult.
 I utilized confusion matrix and confusion table to solve this issue.
